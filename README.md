@@ -1,4 +1,4 @@
 PoloStopwach
 ============
 
-android sample project
+Android sample project
